@@ -3,7 +3,7 @@
 ### Roadmap
 
 Starting with the basics: 
-  <li>Ruby on Rails</li>
+  <li>Ruby</li>
   <li>JavaScript</li>
   <li>Nodejs</li>
 
